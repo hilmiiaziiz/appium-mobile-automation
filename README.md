@@ -28,6 +28,6 @@ mvn clean install
 1. Open the project in IntelliJ IDEA.
 2. Ensure all dependencies are installed.
 3. Navigate to `src/test/resources/features`.
-4. Right-click on the feature file (e.g., `login.feature`).
+4. Right-click on the feature file (e.g., `loginAutomation.feature`).
 5. Click **Run 'loginAutomation.feature'**.
 
