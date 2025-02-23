@@ -20,6 +20,9 @@ git clone https://github.com/hilmiiaziiz/appium-mobile-automation.git
 mvn clean install
 ```
 
+## Adding the Apps to your directory following this path
+``` options.setApp(System.getProperty("user.dir") + "/apps/android.wdio.native.app.v1.0.8.apk");```
+
 ## Running Tests from GUI IDE
 ### IntelliJ IDEA
 1. Open the project in IntelliJ IDEA.
@@ -27,3 +30,4 @@ mvn clean install
 3. Navigate to `src/test/resources/features`.
 4. Right-click on the feature file (e.g., `login.feature`).
 5. Click **Run 'loginAutomation.feature'**.
+
