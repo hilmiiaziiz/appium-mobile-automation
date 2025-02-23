@@ -16,8 +16,7 @@ Set JAVA_HOME and ANDROID_HOME environment variables
 
 ## Installation
 ```sh
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/hilmiiaziiz/appium-mobile-automation.git
 mvn clean install
 ```
 
